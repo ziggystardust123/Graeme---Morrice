@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Graeme Morrice</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      margin: 0;
+      background: #f9f6f1;
+      color: #2c2c2c;
+    }
+    header {
+      background: #1e1e1e;
+      color: #f0f0f0;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+      background: #ffffff;
+    }
+    img.profile {
+      width: 150px;
+      border-radius: 50%;
+      margin: 1rem 0;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #555;
+      background: #f0f0f0;
+    }
+    .social a {
+      display: inline-block;
+      margin-top: 1rem;
+      color: #1e1e1e;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .social a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Graeme Morrice</h1>
+  <p>Grave Digger • Funeral Enthusiast</p>
+</header>
+
+<main>
+  <img src="https://via.placeholder.com/150" alt="Profile photo" class="profile">
+  <h2>About Me</h2>
+  <p>Welcome. I’m Graeme Morrice — a man of solemn purpose and quiet ceremony. My work is rooted in the rituals of farewell, and I find meaning in the art of grave digging and the respectful orchestration of funerals. Where others turn away, I step forward.</p>
+
+  <h2>Interests</h2>
+  <ul>
+    <li>Grave digging – from hand-dug traditionals to modern cemetery planning</li>
+    <li>Funeral ceremonies – design, music, and respectful atmosphere</li>
+    <li>Symbolism, silence, and the poetry of parting</li>
+  </ul>
+
+  <h2>Find Me Online</h2>
+  <div class="social">
+    <a href="https://www.flickr.com/photos/156605823@N06/" target="_blank">View My Work on Flickr</a>
+  </div>
+</main>
+
+<footer>
+  &copy; 2025 Graeme Morrice. All rights reserved.
+</footer>
+
+</body>
+</html>
